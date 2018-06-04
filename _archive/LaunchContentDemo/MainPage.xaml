@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:LaunchContentDemo" x:Class="LaunchContentDemo.MainPage">
+    <StackLayout x:Name="_host" Spacing="10" Padding="5,20,5,5">
+        <!-- Place new controls here -->
+
+    </StackLayout>
+</ContentPage>
